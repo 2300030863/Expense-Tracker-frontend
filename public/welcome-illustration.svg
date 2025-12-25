@@ -1,0 +1,49 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="250" cy="250" r="200" fill="#EEF2FF"/>
+  
+  <!-- Mobile Phone -->
+  <rect x="180" y="120" width="140" height="260" rx="20" fill="#3B82F6"/>
+  <rect x="190" y="135" width="120" height="220" rx="8" fill="#60A5FA"/>
+  <circle cx="250" cy="365" r="8" fill="#DBEAFE"/>
+  
+  <!-- Chart Icon (Pie Chart) -->
+  <circle cx="120" cy="180" r="45" fill="#10B981"/>
+  <path d="M 120 135 L 120 180 L 165 180 A 45 45 0 0 0 120 135" fill="#34D399"/>
+  <path d="M 120 180 L 165 180 A 45 45 0 0 1 120 225 Z" fill="#6EE7B7"/>
+  
+  <!-- Calendar Icon -->
+  <rect x="345" y="80" width="70" height="70" rx="8" fill="#EF4444"/>
+  <rect x="345" y="100" width="70" height="50" rx="4" fill="#F87171"/>
+  <line x1="355" y1="80" x2="355" y2="95" stroke="#DC2626" stroke-width="4"/>
+  <line x1="405" y1="80" x2="405" y2="95" stroke="#DC2626" stroke-width="4"/>
+  
+  <!-- Credit Card -->
+  <rect x="90" y="350" width="100" height="60" rx="8" fill="#8B5CF6"/>
+  <rect x="95" y="365" width="90" height="8" rx="2" fill="#A78BFA"/>
+  <circle cx="105" cy="395" r="8" fill="#C4B5FD"/>
+  <circle cx="125" cy="395" r="8" fill="#C4B5FD"/>
+  
+  <!-- Money/Cash Stack -->
+  <rect x="340" y="320" width="80" height="60" rx="6" fill="#10B981"/>
+  <rect x="345" y="315" width="80" height="60" rx="6" fill="#34D399"/>
+  <rect x="350" y="310" width="80" height="60" rx="6" fill="#6EE7B7"/>
+  <text x="390" y="345" font-size="24" fill="#047857" font-weight="bold" text-anchor="middle">₹</text>
+  
+  <!-- User/Person -->
+  <ellipse cx="250" cy="200" rx="25" ry="30" fill="#F59E0B"/>
+  <circle cx="250" cy="175" r="20" fill="#FBBF24"/>
+  <rect x="230" y="215" width="40" height="60" rx="8" fill="#EF4444"/>
+  <rect x="225" y="230" width="50" height="50" rx="6" fill="#F87171"/>
+  
+  <!-- Shopping Bag -->
+  <path d="M 360 220 L 370 260 L 410 260 L 420 220 Z" fill="#EC4899"/>
+  <path d="M 375 220 Q 390 200 405 220" stroke="#BE185D" stroke-width="3" fill="none"/>
+  <rect x="365" y="215" width="50" height="8" fill="#F9A8D4"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="15" fill="#DBEAFE" opacity="0.5"/>
+  <circle cx="430" cy="430" r="20" fill="#FEE2E2" opacity="0.5"/>
+  <circle cx="450" cy="200" r="12" fill="#E9D5FF" opacity="0.5"/>
+  <circle cx="80" cy="450" r="18" fill="#D1FAE5" opacity="0.5"/>
+</svg>
